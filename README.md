@@ -3,7 +3,7 @@
 Database for an online cake shop: customers, products, cart, orders, coupons,
 payments, reviews and stock control. Written in T-SQL for Microsoft SQL Server (SSMS).
 
-![ER diagram](documentation/ER_Diagram.png)
+![ER diagram](ER_Diagram.png)
 
 ## Files
 
@@ -19,7 +19,7 @@ payments, reviews and stock control. Written in T-SQL for Microsoft SQL Server (
 
 ## How to run
 
-In SSMS run the files in order: `01` → `02` → `03` → `04` → `05` (once), then `06` and `07`.
+In SSMS run the files in order: `01` → `02` → `03` → `04` → `05` (once), then `06` .
 
 ## How an order works
 
